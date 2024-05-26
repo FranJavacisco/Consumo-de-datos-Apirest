@@ -1,3 +1,6 @@
+
+![Captura de pantalla 2024-05-25 221324](https://github.com/FranJavacisco/Consumo-de-datos-Apirest/assets/134477809/1e74f808-eae5-4b7e-a417-898ca0d3de67)
+
 # Consumo de datos desde una API REST
 
 ## Descripción del Proyecto
